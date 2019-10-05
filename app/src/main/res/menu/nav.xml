@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"  android:icon="@drawable/home" ></item>
+    <item android:id="@+id/profile"  android:icon="@drawable/prfile" ></item>
+    <item android:id="@+id/logout" android:icon="@drawable/ic_keyboard_backspace_black_24dp"></item>
+
+</menu>

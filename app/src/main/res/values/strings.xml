@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Elmal3b</string>
+    <string name="welc">مرحبا بك</string>
+    <string name="mail">البريد الالكتروني</string>
+    <string name="pss">كلمة المرور</string>
+    <string name="sginUp">تسجيل حساب جديد </string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Sgin_up">تسجيل</string>
+    <string name="passc">تاكيد كلمة المرور</string>
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">الملف الشخصي</string>
+    <string name="menu_slideshow">خروج</string>
+    <string name="prfil">ملفك الشخصي </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
